@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aigerim Erkebaeva from Bishkek, Kyrgyzstan
-- 👀 Now I am a Frontend developer trainee
+- 👀 Now I am a Junior Frontend developer with experience in marketing
 - 🌱 I’m constantly learning new tools to become a professional Frontend developer
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me:
