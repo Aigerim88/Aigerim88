@@ -3,7 +3,7 @@
 - 🌱 I’m constantly learning new tools to become a professional Frontend developer
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me:
-- email: erkebaeva.aigerim88@gmail.com
+- Email: erkebaeva.aigerim88@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aigerim-erkebaeva
 
 <!---
